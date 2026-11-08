@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Bally Druid Shift
+## Title-zhCN: 八厉害 | 德鲁伊一键变形
+## Notes: One button to shift out and back into your current Druid form.
+## Notes-zhCN: 一键取消并重新施放当前德鲁伊形态，帮助解除可由变形移除的移动限制。
+## Author: Ballyh (B站八厉害)
+## Version: 0.2.1
+## X-License: MIT
+## SavedVariablesPerCharacter: BallyDruidShiftDB
+
+BallyDruidShift.lua
