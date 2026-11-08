@@ -6,6 +6,7 @@
 ## Author: Ballyh (B站八厉害)
 ## Version: 0.2.1
 ## X-License: MIT
+## X-Wago-ID: QN5Jgd6B
 ## SavedVariablesPerCharacter: BallyDruidShiftDB
 
 BallyDruidShift.lua
